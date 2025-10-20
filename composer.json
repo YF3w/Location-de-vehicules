@@ -1,0 +1,5 @@
+{
+  "name": "projet/location-voitures",
+  "description": "API de location de véhicules en PHP avec MongoDB",
+  "require": {}
+}
